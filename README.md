@@ -66,7 +66,7 @@ Open GANG.exe
 ![image](https://user-images.githubusercontent.com/94531396/144045656-b8483f78-2078-4195-9cc9-4afdfcad72e9.png)
 
 
-## How to make the token grabber into an .exe
+### How to make the token grabber into an .exe
 ```
 Create the token grabber
 Rename the file to what ever you want it to say
@@ -77,3 +77,5 @@ once doing that tap: Ctrl + S to save
 Run the Build .exe.bat
 The .exe will be created in "dist" (Send that to your target)
 ```
+![image](https://user-images.githubusercontent.com/94531396/144050019-7739c93f-cebb-4e45-bdea-574362c8b3d7.png)
+![image](https://user-images.githubusercontent.com/94531396/144050106-b6a53ff9-38db-4925-a302-c16fe442fd6a.png)

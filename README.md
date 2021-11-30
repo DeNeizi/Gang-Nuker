@@ -43,10 +43,10 @@ start.bat`
 
 
 2nd・Installation (.exe file)
-`https://github.com/TT-Tutorials/GANG-Nuker/releases
-Download the latest release (GANG-Nuker.zip)
-Drag it out to desktop and extract it
-Open GANG.exe`
+`https://github.com/TT-Tutorials/GANG-Nuker/releases`
+`Download the latest release (GANG-Nuker.zip)`
+`Drag it out to desktop and extract it`
+`Open GANG.exe`
 
 
 

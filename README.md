@@ -31,5 +31,7 @@
 
 ## ❗  - important:
 - Make sure to have [Python](https://www.python.org/downloads/) 3.10.0 before Downloading! 
+
 ![image](https://user-images.githubusercontent.com/94531396/144041711-9ae57771-8073-4be2-b711-83f04a0c90cc.png)
+
 - Also make sure to have python added to [PATH](https://datatofish.com/add-python-to-windows-path/)

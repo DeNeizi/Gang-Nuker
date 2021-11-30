@@ -55,7 +55,7 @@ Drag it out to desktop and extract it
 Open GANG.exe
 ```
 
-#### [21] Token Grabber
+### [21] Token Grabber
 - Token
 - Username
 - Their discord token from all their accounts they have
@@ -66,7 +66,7 @@ Open GANG.exe
 ![image](https://user-images.githubusercontent.com/94531396/144045656-b8483f78-2078-4195-9cc9-4afdfcad72e9.png)
 
 
-#### How to make the token grabber into an .exe
+## How to make the token grabber into an .exe
 ```
 Create the token grabber
 Rename the file to what ever you want it to say

@@ -81,5 +81,5 @@ The .exe will be created in "dist" (Send that to your target)
 ![image](https://user-images.githubusercontent.com/94531396/144050106-b6a53ff9-38db-4925-a302-c16fe442fd6a.png)
 
 
-Make sure to join my [discord](https://discord.gg/raided) and fill free to dm me @††#7777. Thanks for using GANG Multi Tool!
-Coded / Developed by ††#7777
+- Make sure to join my [discord](https://discord.gg/raided) and fill free to dm me @††#7777. Thanks for using GANG Multi Tool!
+- Coded / Developed by ††#7777

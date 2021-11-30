@@ -37,16 +37,16 @@
 
 ## ❗  - Installation:
 1st・Installation (Source Code)
-``git clone https://github.com/TT-Tutorials/GANG-Nuker
+```git clone https://github.com/TT-Tutorials/GANG-Nuker
 pip install pyinstaller
-start.bat``
+start.bat```
 
 
 2nd・Installation (.exe file)
-``https://github.com/TT-Tutorials/GANG-Nuker/releases
+```https://github.com/TT-Tutorials/GANG-Nuker/releases
 Download the latest release (GANG-Nuker.zip)
 Drag it out to desktop and extract it
-Open GANG.exe``
+Open GANG.exe```
 
 
 

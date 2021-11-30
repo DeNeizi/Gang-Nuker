@@ -1,0 +1,1 @@
+pyinstaller --onefile -i NONE (FILE NAME!)

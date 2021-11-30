@@ -36,16 +36,18 @@
 - Also make sure to have python added to [PATH](https://datatofish.com/add-python-to-windows-path/)
 
 ## ❗  - Installation:
-### 1st・Installation (Source Code)
-```git clone https://github.com/TT-Tutorials/GANG-Nuker
+#### 1st・Installation (Source Code)
+```
+git clone https://github.com/TT-Tutorials/GANG-Nuker
 pip install pyinstaller
 start.bat
+```
 
-
-### 2nd・Installation (.exe file)
+#### 2nd・Installation (.exe file)
+```
 https://github.com/TT-Tutorials/GANG-Nuker/releases
 Download the latest release (GANG-Nuker.zip)
 Drag it out to desktop and extract it
 Open GANG.exe
-
+```
 

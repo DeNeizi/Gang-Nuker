@@ -29,8 +29,24 @@
 - `About`
 - `Exit`
 
-## ❗  - important:
+## ❗  - Important:
 - Make sure to have [Python](https://www.python.org/downloads/) 3.10.0 before Downloading! 
 
 ![image](https://user-images.githubusercontent.com/94531396/144041711-9ae57771-8073-4be2-b711-83f04a0c90cc.png)
 - Also make sure to have python added to [PATH](https://datatofish.com/add-python-to-windows-path/)
+
+## ❗  - Installation:
+1st・Installation (Source Code)
+`git clone https://github.com/TT-Tutorials/GANG-Nuker
+pip install pyinstaller
+start.bat`
+
+
+2nd・Installation (.exe file)
+`https://github.com/TT-Tutorials/GANG-Nuker/releases
+Download the latest release (GANG-Nuker.zip)
+Drag it out to desktop and extract it
+Open GANG.exe`
+
+
+

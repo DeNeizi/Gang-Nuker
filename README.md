@@ -1,7 +1,8 @@
-## Advanced Multi Tool Menu: 
+## GANG Multi Tool Menu: 
+
 ![image](https://user-images.githubusercontent.com/94531396/144039345-9891c796-59a3-47d3-9915-00b2266076f7.png)
 
-
+## [YOUTUBE TUTORIAL!](https://www.youtube.com/watch?v=BGhO_nMjpRg&t=1s)
 ### Features:
 
 - `Most Advanced Multi Tool!`

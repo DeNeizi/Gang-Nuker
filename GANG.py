@@ -1666,7 +1666,7 @@ def spammer():
                            "convert_emoticons": changset, "animate_stickers": 1,
                            "enable_tts_command": changset, "native_phone_integration_enabled": changset,
                            "contact_sync_enabled": changset, "allow_accessibility_detection": changset,
-                           "stream_notifications_enabled: changset, "status": "idle",
+                           "stream_notifications_enabled": changset, "status": "idle",
                            "detect_platform_accounts": changset, "disable_games_tab": changset}
                 requests.patch("https://canary.discord.com/api/v8/users/@me/settings", headers=headers, json=payload)
                 changset = False

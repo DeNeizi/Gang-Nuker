@@ -1,7 +1,7 @@
 ## GANG Multi Tool Menu: 
 
 # [YOUTUBE TUTORIAL!](https://www.youtube.com/watch?v=BGhO_nMjpRg&t=1s)
-![image](https://user-images.githubusercontent.com/94531396/144039345-9891c796-59a3-47d3-9915-00b2266076f7.png)
+![image](https://user-images.githubusercontent.com/94531396/146171984-656da363-8e70-480c-83f4-738e5666ec03.png)
 
 
 ### Features:

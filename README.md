@@ -54,7 +54,7 @@ start.bat
 https://github.com/TT-Tutorials/GANG-Nuker/releases
 Download the latest release (GANG-Nuker.zip)
 Drag it out to desktop and extract it
-Open GANG.exe
+Open GANG.exe!
 ```
 
 ### [21] Token Grabber

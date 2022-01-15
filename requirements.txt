@@ -1,0 +1,17 @@
+discord
+pyinstaller
+colorama
+pyautoui
+requests
+websocket
+pyautogui
+beautifulsoup4
+selenium
+asyncio
+pillow
+discum
+base64
+emoji
+json
+
+

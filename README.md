@@ -18,9 +18,15 @@
 - pip install pyautoui
 - pip install requests
 - pip install websocket
+- pip install pyautogui
+- pip install beautifulsoup4
+- pip install selenium
+- pip install asyncio
+- pip install pillow
+- pip install discum
+- pip install base64
 - pip install emoji
 - pip install json
-- pip install base64
 
 
 ### Features:
@@ -83,15 +89,22 @@ you missed a step or didn't do it correcly, make sure to follow all the pip inst
 if this command didnt work: ' pip install -r requirements.txt ' then make sure to do all the pip installations separately!
 
 PIP INSTALLATIONS:
+
 - pip install discord
 - pip install pyinstaller
 - pip install colorama
 - pip install pyautoui
 - pip install requests
 - pip install websocket
+- pip install pyautogui
+- pip install beautifulsoup4
+- pip install selenium
+- pip install asyncio
+- pip install pillow
+- pip install discum
+- pip install base64
 - pip install emoji
 - pip install json
-- pip install base64
 ```
 
 ### [21] Token Grabber Issues (How To Fix)

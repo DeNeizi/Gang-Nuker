@@ -34,7 +34,7 @@
 
 ### Requirements:
 - Windows 10 / 11
-- Python v3.10.2
+- Python v3.10.1 or v3.10.2
 - pip installations - (pip install colorama, pip install tqdm, pip install pyperclip, pip install pyinstaller)
 
 

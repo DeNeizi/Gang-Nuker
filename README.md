@@ -3,32 +3,6 @@
 # --> [YOUTUBE TUTORIAL!](https://www.youtube.com/watch?v=BGhO_nMjpRg&t=1s)
 ![image](https://user-images.githubusercontent.com/94531396/149612773-5d73fa57-21b5-4253-86f6-111c692d256d.png)
 
-### Requirements:
-- Windows 10 / 11
-- Python v3.10.2
-- pip installations
-
-### CMD Requirements:
-❗ instead of writing all these commands just simply do: `pip install -r requirements.txt` 
-![image](https://user-images.githubusercontent.com/94531396/149606488-84183e0d-abc5-4aaa-869b-6688b7a11f66.png)
-
-- pip install discord
-- pip install pyinstaller
-- pip install colorama
-- pip install pyautoui
-- pip install requests
-- pip install websocket
-- pip install pyautogui
-- pip install beautifulsoup4
-- pip install selenium
-- pip install asyncio
-- pip install pillow
-- pip install discum
-- pip install base64
-- pip install emoji
-- pip install json
-
-
 ### Features:
 
 - `Most Advanced Multi Tool!`
@@ -58,8 +32,14 @@
 - `About`
 - `Exit`
 
+### Requirements:
+- Windows 10 / 11
+- Python v3.10.2
+- pip installations - (pip install colorama, pip install tqdm, pip install pyperclip, pip install pyinstaller)
+
+
 ## ❗  - Important:
-- Make sure to have [Python](https://www.python.org/downloads/) 3.10.2 before Downloading! 
+- Make sure to have [Python](https://www.python.org/downloads/) 3.10.1 or 3.10.2 before Downloading! 
 
 ![image](https://user-images.githubusercontent.com/94531396/149606997-0aef231b-934d-47bd-ab3e-fdd730b30098.png)
 
@@ -67,12 +47,24 @@
 
 ![image](https://user-images.githubusercontent.com/94531396/149606690-f81235a6-3367-405a-a231-fb5e27b406fb.png)
 
+![image](https://user-images.githubusercontent.com/94531396/149905226-dd061144-00e7-4ebb-acdc-ae22f74beff1.png)
+
+![image](https://user-images.githubusercontent.com/94531396/149905424-bab6201b-952a-4157-b999-59fd01bcf9ba.png)
+
+![image](https://user-images.githubusercontent.com/94531396/149905441-b722ae86-d446-40da-a967-6f8c849ed04d.png)
+
 
 ## ❗  - Installation:
 #### 1st・Installation (Source Code)
 ```
 git clone https://github.com/TT-Tutorials/GANG-Nuker
-pip install -r requirements.txt
+pip installations:
+
+- pip install colorama
+- pip install tqdm
+- pip install pyperclip
+- pip install pyinstaller
+
 py gang.py
 ```
 
@@ -82,6 +74,7 @@ https://github.com/TT-Tutorials/GANG-Nuker/releases
 Download the latest release (GANG-Nuker.zip)
 Drag it out to desktop and extract it
 type the command in CMD: py GANG.py
+then type the pip installations that it tells you to...
 
 if it keeps crashing here is the solution:
 you missed a step or didn't do it correcly, make sure to follow all the pip installations to ensure GANG Multi Tool works!
@@ -127,5 +120,7 @@ Spammer is amazing tool for raiding and disabling big server.
 
 
 
-- Make sure to join my [discord](https://discord.gg/raided) and fill free to dm me @††#3333. Thanks for using GANG Multi Tool!
-- Coded / Developed by ††#3333
+
+
+- Make sure to join my [discord](https://discord.gg/raided) and fill free to dm me @††#3333. Thanks for using GANG Multi Tool©
+- Coded / Developed by ††#3333©

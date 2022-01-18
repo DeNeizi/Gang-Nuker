@@ -1,3 +1,4 @@
+tqdm
 discord
 pyinstaller
 colorama
@@ -13,5 +14,3 @@ discum
 base64
 emoji
 json
-
-

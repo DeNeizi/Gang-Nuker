@@ -5,6 +5,7 @@ pip install discord
 pip install pyinstaller
 pip install pyperclip
 pip install webbrowser
+pip install PyNaCl
 cls
 echo py gang.py >> start.bat
 

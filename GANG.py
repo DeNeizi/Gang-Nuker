@@ -1310,14 +1310,14 @@ def spammer():
                         guildOBJ = client.get_guild(int(server))
 
                         channelcount = 0
-                        with open('staff/channels.txt', 'w') as c:
+                        with open('utilities/QR/channels.txt', 'w') as c:
                             for channel in guildOBJ.channels:
                                 c.write(str(channel.id) + "\n")
                                 channelcount += 1
                             c.close()
 
                         rolecount = 0
-                        with open('staff/roles.txt', 'w') as r:
+                        with open('utilities/QR/roles.txt', 'w') as r:
                             for role in guildOBJ.roles:
                                 r.write(str(role.id) + "\n")
                                 rolecount += 1
@@ -1358,8 +1358,8 @@ def spammer():
                         rn = input(f"[>] Roles Name: ")
                         ra = input(f"[>] Roles Amount: ")
 
-                        channels = open('staff/channels.txt')
-                        roles = open('staff/roles.txt')
+                        channels = open('utilities/QR/channels.txt')
+                        roles = open('utilities/QR/roles.txt')
 
                         for channel in channels:
                             threading.Thread(target=self.DeleteChannels, args=(server, channel,)).start()
@@ -1438,12 +1438,12 @@ def spammer():
                         members = await guildOBJ.chunk()
 
                         try:
-                            os.remove("staff/members.txt")
+                            os.remove("utilities/QR/members.txt")
                         except:
                             pass
 
                         membercount = 0
-                        with open('staff/members.txt', 'w') as m:
+                        with open('utilities/QR/members.txt', 'w') as m:
                             for member in members:
                                 m.write(str(member.id) + "\n")
                                 membercount += 1
@@ -1453,7 +1453,7 @@ def spammer():
                     async def BanExecute(self):
                         guild = input(f'[>] Server ID: ')
                         print()
-                        members = open('staff/members.txt')
+                        members = open('utilities/QR/members.txt')
                         for member in members:
                             threading.Thread(target=self.BanMembers, args=(guild, member,)).start()
                         members.close()
@@ -1461,7 +1461,7 @@ def spammer():
                     async def KickExecute(self):
                         guild = input(f'[>] Server ID: ')
                         print()
-                        members = open('staff/members.txt')
+                        members = open('utilities/QR/members.txt')
                         for member in members:
                             threading.Thread(target=self.KickMembers, args=(guild, member,)).start()
                         members.close()

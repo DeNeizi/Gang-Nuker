@@ -55,7 +55,7 @@
 
 
 ## ❗  - Installation:
-#### 1er paso・Instalacion (Codigo Fuente)
+#### 1st Installation (Source Code)
 ```
 git clone https://github.com/TT-Tutorials/GANG-Nuker
 pip installations:
@@ -115,8 +115,8 @@ if you dont have tokens and try do the joiner option it will do nothing - must h
 
 ### [9] Spammer not working (How To Fix)
 
-Spammer is working fine! ensure you have the tokens in token.txt and make sure to do [3] Token Checker to ensure your tokens are ready for attack! <3
-Spammer is amazing tool for raiding and disabling big server.
+¡El spammer está funcionando bien! asegúrese de tener los tokens en token.txt y asegúrese de hacer [3] Token Checker para asegurarse de que sus tokens estén listos para el ataque. <3
+Spammer es una herramienta increíble para asaltar y deshabilitar un gran servidor.
 
 
 

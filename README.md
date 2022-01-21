@@ -55,7 +55,7 @@
 
 
 ## ❗  - Installation:
-#### 1st・Installation (Source Code)
+#### 1er paso・Instalacion (Codigo Fuente)
 ```
 git clone https://github.com/TT-Tutorials/GANG-Nuker
 pip installations:
